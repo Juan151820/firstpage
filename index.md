@@ -13,8 +13,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1 - New Page
+#TITLE#
 ## Header 2 - New Tittle
+##SUBTITLE##
 ### Header 3 - New Subtitle
+###MENTION###
 
 - Bulleted
 - List
@@ -29,7 +32,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[Image](src:"https://calagononeapartments.com/wp-content/uploads/2018/03/icon-calagoapts.png")
+
+![Image](src:"https://calagononeapartments.com/wp-content/uploads/2018/03/icon-calagoapts.png")
 
 ### Jekyll Themes
 
