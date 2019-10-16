@@ -29,6 +29,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+[Image](src:"https://calagononeapartments.com/wp-content/uploads/2018/03/icon-calagoapts.png")
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Juan151820/firstpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
