@@ -33,7 +33,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-![Image](src:"https://calagononeapartments.com/wp-content/uploads/2018/03/icon-calagoapts.png")
+![Image](src:"https://calagononeapartments.com/wp-content/uploads/2018/05/cala-gonone-apartments-768x576.jpg")
 
 ### Jekyll Themes
 
