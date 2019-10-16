@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)https://calagononeapartments.com/wp-content/uploads/2018/03/icon-calagoapts.png
+[Link](url) and ![Image](src)(https://calagononeapartments.com/wp-content/uploads/2018/03/icon-calagoapts.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
