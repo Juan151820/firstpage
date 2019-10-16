@@ -13,11 +13,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1 - New Page
-#TITLE#
+#TITLE
 ## Header 2 - New Tittle
-##SUBTITLE##
+##SUBTITLE
 ### Header 3 - New Subtitle
-###MENTION###
+###MENTION
 
 - Bulleted
 - List
@@ -27,13 +27,18 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+**CGAPTS**
+_SACHA_
+`Code Academy`
+
 [Link](url) and ![Image](src)(https://calagononeapartments.com/wp-content/uploads/2018/03/icon-calagoapts.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-![Image](src:"https://calagononeapartments.com/wp-content/uploads/2018/05/cala-gonone-apartments-768x576.jpg")
+![CGApts](https://calagononeapartments.com/wp-content/uploads/2018/05/cala-gonone-apartments-768x576.jpg)
+Format:![CGApts](https://calagononeapartments.com/wp-content/uploads/2018/03/icon-calagoapts.png)
 
 ### Jekyll Themes
 
