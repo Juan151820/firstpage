@@ -1,9 +1,4 @@
-## Welcome to MY NEW PAGE - Juan 
-151820
-
-You can use the [editor on GitHub](https://github.com/Juan151820/firstpage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Welcome to MY NEW PAGE - Juan 151820
 
 ### Markdown
 
@@ -31,14 +26,20 @@ Syntax highlighted code block
 _SACHA_
 `Code Academy`
 
-[Link](url) and ![Image](src)(https://calagononeapartments.com/wp-content/uploads/2018/03/icon-calagoapts.png)
 ```
+# Header 1 - New Page
+#TITLE
+## Header 2 - New Tittle
+##SUBTITLE
+### Header 3 - New Subtitle
+###MENTION
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 ![CGApts](https://calagononeapartments.com/wp-content/uploads/2018/05/cala-gonone-apartments-768x576.jpg)
-Format:![CGApts](https://calagononeapartments.com/wp-content/uploads/2018/03/icon-calagoapts.png)
+![CGApts](https://calagononeapartments.com/wp-content/uploads/2018/03/icon-calagoapts.png)
 
 ### Jekyll Themes
 
